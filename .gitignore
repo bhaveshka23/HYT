@@ -1,0 +1,11 @@
+# Environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Personal data: never commit raw or sampled resumes
+data/
